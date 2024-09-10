@@ -1,2 +1,2 @@
-# publicportfolio
-publicportfolio
+# public-portfolio
+public-portfolio
